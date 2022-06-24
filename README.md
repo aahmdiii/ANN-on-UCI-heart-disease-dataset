@@ -1,7 +1,7 @@
 # ANN-on-UCI-heart-disease-dataset
 
 This is a small machine learning project that is performed on a heart disease dataset...
-Some of the libraries that we used are tensorflow, keras, pandas and etc.
+Libraries that we used consist of tensorflow, keras, pandas and etc.
 
 
 Data Set Information:
